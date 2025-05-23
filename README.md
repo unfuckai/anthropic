@@ -8,7 +8,7 @@ https://www.youtube.com/live/nZCy8E5jlok?si=EyUHQBsoYEAZjPjE
 
 ## Optimizing Your Claude Code Setup
 
-### Essential Commands
+### RECOMMENDED: DO THIS
 - `/terminal-setup` - Enable shift-enter to insert newlines
 - `/theme` - Set light/dark mode; consider vulcanize theme
 - `/install-github-app` - Allows you to @claude on Github issues & PRs
