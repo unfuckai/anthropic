@@ -1,4 +1,10 @@
 # Claude Code Summit Tips & Tricks
+
+UPDATE *May 26, 2025*
+
+I've since discovered https://www.anthropic.com/engineering/claude-code-best-practices, which covers much of the material and has other insights.
+
+
 *May 22, 2025*
 
 Notes from their live streams on YouTube.
