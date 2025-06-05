@@ -8,8 +8,8 @@ I've since discovered https://www.anthropic.com/engineering/claude-code-best-pra
 *May 22, 2025*
 
 Notes from their live streams on YouTube.
-https://www.youtube.com/live/6eBSHbLKuN0?si=blXAiSOdbTcpAeq1
-https://www.youtube.com/live/nZCy8E5jlok?si=EyUHQBsoYEAZjPjE
+- https://www.youtube.com/live/6eBSHbLKuN0?si=blXAiSOdbTcpAeq1
+- https://www.youtube.com/live/nZCy8E5jlok?si=EyUHQBsoYEAZjPjE
 
 
 ## Optimizing Your Claude Code Setup
